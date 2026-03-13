@@ -5,21 +5,21 @@ const PRODUCTS = [
         name: "Agarraderas Estampadas",
         description: "Variedades de colores y diseños",
         price: 4000,
-        image: "https://tu-dominio.com/imagenes/agarradera.jpg"
+        image: "https://image: "images/mini_brillos_rombos.jpg"
     },
     {
         id: 2,
         name: "Almohadones Bordado Chino",
         description: "Diseños bordados artesanales",
         price: 15000,
-        image: "https://tu-dominio.com/imagenes/almohadones_chino.jpg"
+        image: "https://image: "images/crops.jpg"
     },
     {
         id: 3,
         name: "Cortinas Capitone",
         description: "Colores y medidas a elección",
         price: 30000,
-        image: "https://tu-dominio.com/imagenes/cortinas.jpg"
+        image: "https://image: "images/sobre_camisa.jpg"
     },
     {
         id: 4,
